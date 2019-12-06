@@ -35,8 +35,9 @@ html, body {
     text-decoration: none;
     padding: 5px 10px;
     transition: bottom 300ms ease;
-    position:relative;
+    position:top;
     bottom: 15px;
+
   }
 
     .main-nav a:hover {
