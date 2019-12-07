@@ -9,6 +9,12 @@ html, body {
   background-color: white;
 }
 
+a:link {
+  color: #6f717d;
+  text-decoration: none;
+  font-weight: bold ;
+  }
+
 .nav-header {
   background-image: url(https://thumbs.gfycat.com/SociableEmbellishedBallpython-size_restricted.gif);
   background-repeat: no-repeat;
