@@ -79,6 +79,14 @@ h2 {
 }
 
 
+.right {
+	
+	float: right;
+	padding: 0 5px 5px 0;
+	
+}
+
+
 .page-nav {
 	position: absolute;
 	bottom: 250px;
@@ -104,3 +112,4 @@ h2 {
       .page-nav ul li a:visited {
         color: #6f717d;
       }
+	  
